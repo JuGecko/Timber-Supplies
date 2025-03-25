@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,8 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# Timber Supplies
+Typescript application of a store selling timber. 
+Using React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, Form Submit and React Anchor Link Smooth Scroll.
+>>>>>>> e7e184e63a3965f2f902df56c1d432904837a5d5
