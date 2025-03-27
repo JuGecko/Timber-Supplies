@@ -13,7 +13,8 @@
         "primary-100": "#FFE1E0",
         "primary-300": "#FFA6A3",
         "primary-500": "#FF6B66",
-        "secondary-400": "#FFCD58"
+        "secondary-400": "#FFCD58",
+        "secondary-500": "#FFBD69"
       },
       backgroundImage: (theme) =>({
         "gradient-yellowred": "linear-gradient(90deg, #FF616A 0%, #FFC837 100%)",
