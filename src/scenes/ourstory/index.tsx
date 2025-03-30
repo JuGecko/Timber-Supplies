@@ -50,7 +50,7 @@ const OurStory = ({ setSelectedPage }: Props) => {
             icon={ourstory.icon}
             title={ourstory.title}
             description={ourstory.description}
-            setSelectedPage={ourstory.setSelectedPage}
+            setSelectedPage={setSelectedPage}
             />
         ))}
         </div>
