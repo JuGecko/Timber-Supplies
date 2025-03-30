@@ -13,7 +13,7 @@ type Props = {
     setSelectedPage: (value: SelectedPage) => void;
 }
 
-const Home = (props: Props) => {
+const Home = ({ setSelectedPage }: Props)  => {
     const isAboveMediumScreens = useMediaQuery("(min-width:1060px)");
 
     /*We are applying h-full only if the screen is above md size. py means padding on top and bottom (y-axis).*/
