@@ -1,7 +1,7 @@
-
-import { SelectedPage } from "../../shared/types";
+import { SelectedPage, ServiceType } from "../../shared/types";
 import { motion } from "framer-motion";
 import HText from "../../shared/HText";
+import Service from "./Service";
 
 const classes: Array<ServiceType> = [
     {

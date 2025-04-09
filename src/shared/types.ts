@@ -13,3 +13,9 @@ export interface OurStoryType {
     title: string;
     description: string;
 }
+
+export interface ServiceType {
+    name: string,
+    description?: string;
+    image: string;
+}
