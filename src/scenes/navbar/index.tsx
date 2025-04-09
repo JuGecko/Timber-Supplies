@@ -72,7 +72,7 @@ return (
             setselectedPage={setselectedPage} 
             />
             <Link
-            page="Pricing"
+            page="Services"
             selectedPage={selectedPage}
             setselectedPage={setselectedPage} 
             />

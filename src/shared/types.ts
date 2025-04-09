@@ -3,7 +3,7 @@ import { JSX } from "react";
 export enum SelectedPage {
     Home = "home",
     OurStory = "ourstory",
-    Pricing = "pricing",
+    Services = "services",
     Contact = "contact"
 }
 
